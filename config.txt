@@ -1,0 +1,6 @@
+owner=507888720054059009
+prefix=1
+game=RyZex | 1play
+stayinchannel=true
+songinstatus=false
+token=NjA5NzA2NDcyMzUxMzM0NDAy.XU6nbA.mGOPhhCqWnsaWL_Ow1k99VPBJaw
